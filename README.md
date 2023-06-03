@@ -15,6 +15,7 @@ Rental Wife é um projeto criado pensando no bem estar feminino e na expansão d
 | Cor exemplo | ![#D9D9D9](https://via.placeholder.com/10/D9D9D9?text=+) #D9D9D9       |
 
 ## Features
+
 - Preview em tempo real.
 - Enviar solicitação de contratação.
 - Concluir e avaliar o serviço prestado.
@@ -29,7 +30,7 @@ Rental Wife é um projeto criado pensando no bem estar feminino e na expansão d
 Realize o clone do projeto:
 
 ```bash
-  git clone https://github.com/ProjetoFullStackT30-Paulo/FrontEnd-FullStackM6.git
+  git clone git@github.com:DaniloCardoso93/RentalWife.git
 ```
 
 Vá para o diretório do projeto:
@@ -86,7 +87,6 @@ Inicie o servidor:
     <a href = "https://github.com/JuanSgarbi"> @JuanSgarbi (Quality-Assurance)</a>
   </div>
 
-
   <div style="display: flex">
     <img src="https://github.com/AlexsonPereira.png" height="104px" width="104px"/>
     <a href = "https://github.com/AlexsonPereira"> @AlexsonPereira (Quality-Assurance)</a>
@@ -107,6 +107,5 @@ Inicie o servidor:
 
 Aqui estão os projetos relacionados:
 
-- [Back-End RentalWife](https://github.com/Kenzie-Academy-Brasil-Developers/Rental-Wife-API-Group05)
-- [Documentação do Back-End](https://github.com/mariolucass/DOC-Rental-Wife)
-
+- [Back-End RentalWife](https://github.com/DaniloCardoso93/Rental-Wife-API)
+- [Documentação do Back-End](https://danilocardoso93.github.io/Rental-Wife-Doc/)
